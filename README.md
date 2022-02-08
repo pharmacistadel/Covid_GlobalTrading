@@ -1,3 +1,4 @@
+# This analysis for training after just 3 months jounry of data anlaysis
 # Covid_GlobalTrading
 Data analysis about effect of COVID-19 on commerical traffic between 2015-2021
 ## Questions:
